@@ -1,0 +1,27 @@
+{
+  "name": "shopify-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a60231023/shopify-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a60231023/shopify-clone/issues"
+  },
+  "homepage": "https://github.com/a60231023/shopify-clone#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.3.1"
+  }
+}
